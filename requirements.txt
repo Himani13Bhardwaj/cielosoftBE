@@ -64,7 +64,7 @@ pyasn1-modules==0.2.8
 pycparser==2.21
 pycryptodome==3.14.1
 pyjsparser==2.7.1
-PyJWT==2.3.0
+PyJWT==2.4.0
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
 PyPrind==2.11.2
